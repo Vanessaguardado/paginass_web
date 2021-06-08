@@ -1,0 +1,44 @@
+p#tituloo{
+	color: rgb(7, 5, 5);
+	text-align: center;
+	font-size: 2.1em;
+}
+#uno{
+	background-color: black;
+	color: white;
+	width: 333px;
+	height: 1300px;
+	float: left;
+	text-decoration: none;
+}
+#dos{
+	background-color: #C0C0C0;
+	width: 650px;
+	height: 1300px;
+	float: left;
+}
+#tres{
+	background-color: black;
+	color: white;
+	width: 320px;
+	height: 1380px;
+	float: left;
+}
+img#imagen{
+	margin-left: 150px;
+}
+#texto{
+	text-align: center;
+	color: rgb(139,69,19);
+	font-size: 1.1em;
+}
+#titulos{
+	text-align: center;
+	font-size: 1.5em;
+	color: rgb(128,0,0);
+}
+#cuatro{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 1.1em;

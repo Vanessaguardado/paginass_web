@@ -1,0 +1,128 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Helvetica Neue;
+}
+
+p#titulo{
+  color: rgb(251, 252, 252);
+  text-align: center;
+  font-size: 2.1em;
+}
+
+p#header{
+  text-align: center;
+  font-size: 1.5em;
+  color: white;
+}
+
+p#subheader{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.3em;
+  color: white;
+}
+
+header{
+  margin: 100px auto;
+  width: 1200px;
+  height: 230px;
+  background-color: red;
+}
+#menu{ 
+  background-color: #000;
+  text-align: center;
+}
+#menu ul{ 
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#menu ul li{
+  display: inline-block;
+}
+#menu ul li a{ 
+  color: white; 
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+}
+#menu ul li a:hover{ 
+  background-color: #42B881;
+}
+#pagina2.html{ 
+  background-color: #000;
+  text-align: center;
+}
+#tabla.html ul{ 
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#tabla.html ul li{
+  display: inline-block;
+}
+#menuu ul li a{ 
+  color: white; 
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+  margin-left: 10px;
+}
+#menuu ul li a:hover{ 
+  background-color: #42B881;
+  margin-left: 10px;
+}
+
+div#titulotres{
+  width: 950px;
+  height: 500px;
+  background-color: ; 
+}
+#titulodos{
+  background-color: white;
+  text-align: center;
+  font-size: 1.4em;
+  width: 1350px;
+  height: 2000px;
+  border-right: ;
+  float: left;
+}
+p#titulodos{
+  text-align: center;
+  font-size: 1.9em;
+  color: red;
+}
+
+#titulos{
+  text-align: center;
+  font-size: 1.5em;
+  color: rgb(128,0,0);
+}
+div.noticia {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #73C6B6;
+  color: #fff;
+  padding: 15px;
+}
+
+div.noticia img.izquierda {
+  float: left;
+  width: 300px;
+  height: 400px;
+  margin-right: 35px;
+}
+
+div.noticia img.derecha {
+  float: right;
+  margin-left: 35px;
+}
+
+div.reset {
+  clear: both;
+}

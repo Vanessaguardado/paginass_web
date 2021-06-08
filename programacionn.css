@@ -1,0 +1,174 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica Neue;
+}
+
+div#titulo{
+	width: 100%;
+	margin-top: 100px;
+}
+
+p#header{
+	text-align: center;
+	font-size: 1.5em;
+	color: white;
+}
+
+#menu{ 
+	background-color: #000;
+	text-align: center;
+}
+#menu ul{ 
+	list-style: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li{
+	display: inline-block;
+}
+#menu ul li a{ 
+	color: white; 
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+}
+#menu ul li a:hover{ 
+	background-color: #42B881;
+}
+
+#menuu ul li a{ 
+	color: white; 
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+}
+#menuu ul li a:hover{ 
+	background-color: #42B881;
+}
+#ENFERMERIA.html{ 
+  background-color: #000;
+  text-align: center;
+}
+#PROGRAMACIONN.html{ 
+  background-color: #000;
+  text-align: center;
+}
+#CONSTRUCCION.html ul{ 
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#CONTABILIDAD.html ul li{
+  display: inline-block;
+}
+#PROYECTO.html{ 
+  background-color: #000;
+  text-align: center;
+}
+#CONOCENOS.html{ 
+  background-color: #000;
+  text-align: center;
+}
+#BECAS.html ul{ 
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#indexx.html ul{ 
+  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#CONSTRUYETE.html ul li{
+  display: inline-block;
+}
+
+
+div#titulotres{
+	width: 1042px;
+	height: 500px;
+	background-color: ; 
+}
+#titulouno{
+	background-color: black;
+	font-size: 1.7em;
+	width: 300px;
+	height: 950px;
+	border-right:;
+	float: left;
+}
+#titulodos{
+	background-color: #5DADE2;
+	text-align: center;
+	font-size: 0.7em;
+	width: 1042px;
+	height: 400px;
+	border-right: ;
+	float: left;
+}
+#titulotres{
+	background-color: #AED6F1;
+	text-align: center;
+	font-size: 0.7em;
+	width: 521px;
+	height: 400px;
+	border-right: ;
+	float: left;
+}
+#titulocuatro{
+	background-color: #5DADE2;
+	text-align: center;
+	font-size: 0.7em;
+	width: 1042px;
+	height: 50px;
+	border-right: ;
+	float: left;
+}
+
+p#titulouno{
+	text-align: center;
+	font-size: 3em;
+	color: white;
+}
+
+p#titulodos{
+	text-align: center;
+	font-size: 1.9em;
+	color: red;
+}
+
+p#titulo{
+	text-align: center;
+	font-size: 1.9em;
+	color: white;
+}
+
+p.texto{
+	font-size: 1.2em;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	opacity: .6;
+	-webkit-transition: padding-top .4s;
+}
+.zoom{
+	transition: width 2s, height 2s, transform 2s;
+    -moz-transition: width 2s, height 2s, -moz-transform 2s;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+    -o-transition: width 2s, height 2s,-o-transform 2s;
+}
+#abajo{
+	background-color: red;
+}
+#img{
+	display: block;
+	margin: auto;
+}
